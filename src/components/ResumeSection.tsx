@@ -18,7 +18,7 @@ const ResumeSection = () => {
           </p>
 
           <Button size="lg" className="mt-4" asChild>
-            <a href="/resume.docx" download="Resume.docx">
+            <a href="/C:\Users\LENOVO\Downloads\Sharanu_Basava_Salesforce_AMTS.docx" download="Resume.docx">
               Download Resume
             </a>
           </Button>
