@@ -17,7 +17,7 @@ const projects = [
     description: "Engineered a complete MERN e-commerce application for groceries with cart, order management, and subscriptions. Integrated Razorpay for secure transactions and designed a scalable RESTful API with JWT authentication.",
     color: "from-blue-500/10 to-cyan-500/10",
     iconColor: "text-blue-500",
-    demo: "https://full-stack-ecommerce-grocery-1.onrender.com/"
+    demo: "https://client-4yfv.onrender.com/"
   }
 ];
 
