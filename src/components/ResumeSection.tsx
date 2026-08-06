@@ -13,12 +13,12 @@ const ResumeSection = () => {
             Resume
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Download my detailed professional experience, education, and skills in a
-            single document to review at your convenience.
+            Download my detailed professional experience, education, and skills
+            in a single document to review at your convenience.
           </p>
 
           <Button size="lg" className="mt-4" asChild>
-            <a href="/C:\Users\LENOVO\Downloads\Sharanu_Basava_Salesforce_AMTS.docx" download="Resume.docx">
+            <a href="D:\Resume 1\Resume - 1.docx" download="Resume.docx">
               Download Resume
             </a>
           </Button>

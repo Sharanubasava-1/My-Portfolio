@@ -20,13 +20,15 @@ const EducationSection = () => {
               <h3 className="text-lg sm:text-xl font-display font-semibold">
                 Bachelor of Engineering in Computer Science
               </h3>
-              <p className="text-primary font-semibold">K S Institute of Technology, Bengaluru</p>
+              <p className="text-primary font-semibold">
+                K S Institute of Technology, Bengaluru
+              </p>
               <div className="flex flex-wrap gap-3 sm:gap-4 mt-1 text-sm text-muted-foreground">
                 <span className="inline-flex items-center gap-1.5">
-                  <Calendar className="w-3.5 h-3.5" /> Dec 2022 – Jun 2026 (Expected)
+                  <Calendar className="w-3.5 h-3.5" /> Dec 2022 – Jun 2026
                 </span>
                 <span className="inline-flex items-center gap-1.5 font-semibold text-heading bg-primary/10 px-3 py-0.5 rounded-full">
-                  CGPA: 8.2
+                  CGPA: 8.38
                 </span>
               </div>
             </div>
@@ -40,7 +42,9 @@ const EducationSection = () => {
               <h3 className="text-lg sm:text-xl font-display font-semibold">
                 PCMB(Physics, Chemistry, Mathematics, Biology)
               </h3>
-              <p className="text-primary font-semibold">Vishwachetana PU College, Davangere</p>
+              <p className="text-primary font-semibold">
+                Vishwachetana PU College, Davangere
+              </p>
               <div className="flex flex-wrap gap-3 sm:gap-4 mt-1 text-sm text-muted-foreground">
                 <span className="inline-flex items-center gap-1.5">
                   <Calendar className="w-3.5 h-3.5" /> Aug 2020 - Apr 2022
@@ -60,7 +64,9 @@ const EducationSection = () => {
               <h3 className="text-lg sm:text-xl font-display font-semibold">
                 Karnataka State Syllabus (SSLC)
               </h3>
-              <p className="text-primary font-semibold">S.F.S High School, Kuknoor(Koppal)</p>
+              <p className="text-primary font-semibold">
+                S.F.S High School, Kuknoor(Koppal)
+              </p>
               <div className="flex flex-wrap gap-3 sm:gap-4 mt-1 text-sm text-muted-foreground">
                 <span className="inline-flex items-center gap-1.5">
                   <Calendar className="w-3.5 h-3.5" /> Jun 2019 – Aug 2020
