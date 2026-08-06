@@ -17,11 +17,18 @@ const ResumeSection = () => {
             in a single document to review at your convenience.
           </p>
 
-          <Button size="lg" className="mt-4" asChild>
-            <a href="D:\Resume 1\Resume - 1.docx" download="Resume.docx">
-              Download Resume
-            </a>
-          </Button>
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mt-4">
+            <Button size="lg" variant="outline" asChild>
+              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                View Resume
+              </a>
+            </Button>
+            <Button size="lg" asChild>
+              <a href="/resume.docx" download="Resume.docx">
+                Download Resume
+              </a>
+            </Button>
+          </div>
         </div>
       </section>
     </AnimatedSection>
