@@ -5,7 +5,7 @@ const experiences = [
   {
     title: "Full Stack Web Development Intern",
     company: "SuprMentr Technologies Pvt Ltd.",
-    period: "Feb 2026 - Present",
+    period: "Feb 2026 - May 2026",
     location: "Bengaluru, India",
     responsibilities: [
       "Developing and maintaining full-stack web features using React.js, Node.js, and MongoDB in an Agile environment.",
