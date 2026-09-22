@@ -1,8 +1,8 @@
 import AnimatedSection from "./AnimatedSection";
 
 const skillCategories = [
-  { label: "Languages", skills: ["Core Java", "JavaScript", "Python"] },
-  { label: "Frontend", skills: ["React.js", "HTML5", "CSS3"] },
+  { label: "Languages", skills: ["Core Java", "Python"] },
+  { label: "Frontend", skills: ["React.js", "JavaScript", "HTML5", "CSS3"] },
   { label: "Backend", skills: ["Node.js", "Express.js", "REST APIs", "Flask"] },
   { label: "Databases", skills: ["MySQL", "MongoDB"] },
   {
@@ -14,11 +14,17 @@ const skillCategories = [
     label: "Core Concepts",
     skills: ["DSA", "OOP", "DBMS", "SDLC", "API Design"],
   },
+  {
+    label: "Building Skills for a Forward Deployed Engineer (FDE) Role",
+  },
 ];
 
 const SkillsSection = () => {
   return (
-    <section className="py-16 sm:py-20 lg:py-24 bg-surface px-4 sm:px-6" id="skills">
+    <section
+      className="py-16 sm:py-20 lg:py-24 bg-surface px-4 sm:px-6"
+      id="skills"
+    >
       <div className="container px-0">
         <AnimatedSection>
           <h2 className="text-3xl sm:text-4xl font-display font-bold mb-10 sm:mb-14">
