@@ -16,6 +16,7 @@ const skillCategories = [
   },
   {
     label: "Building Skills for a Forward Deployed Engineer (FDE) Role",
+    skills: [],
   },
 ];
 
