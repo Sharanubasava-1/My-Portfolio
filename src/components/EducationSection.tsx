@@ -28,7 +28,7 @@ const EducationSection = () => {
                   <Calendar className="w-3.5 h-3.5" /> Dec 2022 – Jun 2026
                 </span>
                 <span className="inline-flex items-center gap-1.5 font-semibold text-heading bg-primary/10 px-3 py-0.5 rounded-full">
-                  CGPA: 8.38
+                  CGPA: 8.42
                 </span>
               </div>
             </div>

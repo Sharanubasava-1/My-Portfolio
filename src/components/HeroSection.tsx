@@ -124,7 +124,7 @@ const HeroSection = () => {
                   CGPA
                 </p>
                 <p className="text-lg sm:text-xl font-display font-bold text-primary">
-                  8.2
+                  8.42
                 </p>
               </motion.div>
               <motion.div
