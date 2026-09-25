@@ -1,4 +1,10 @@
-import { Brain, ShoppingCart, ExternalLink } from "lucide-react";
+import {
+  Brain,
+  ShoppingCart,
+  ExternalLink,
+  Radar,
+  GraduationCap,
+} from "lucide-react";
 import AnimatedSection from "./AnimatedSection";
 
 const projects = [
@@ -20,6 +26,33 @@ const projects = [
     color: "from-blue-500/10 to-cyan-500/10",
     iconColor: "text-blue-500",
     demo: "https://client-4yfv.onrender.com/",
+  },
+  {
+    icon: Radar,
+    title: "DropWatch",
+    tech: [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "SQLite",
+      "Anthropic Claude API",
+      "Render",
+    ],
+    description:
+      "Engineered DropWatch, a live AI model-release tracker using Node.js/Express and the Claude API to scrape, classify, and rank AI news by discussion velocity. Automated scheduled refreshes via GitHub Actions and deployed on Render with a secured REST API.",
+    color: "from-blue-500/10 to-cyan-500/10",
+    iconColor: "text-blue-500",
+    demo: "https://dropwatch-1.onrender.com/",
+  },
+  {
+    icon: GraduationCap,
+    title: "Student Support System",
+    tech: ["SQLite", "Prisma", "React.js", "Node.js", "Docker"],
+    description:
+      "Engineered a full-stack student support and ticket management system with role-based dashboards for students, staff, and admins. Implemented SLA monitoring, duplicate-ticket detection, and audit logging, backed by a Prisma/SQLite data layer with JWT authentication.",
+    color: "from-blue-500/10 to-cyan-500/10",
+    iconColor: "text-blue-500",
+    demo: "https://student-support-2.onrender.com/",
   },
 ];
 

@@ -137,7 +137,7 @@ const HeroSection = () => {
                   Projects
                 </p>
                 <p className="text-lg sm:text-xl font-display font-bold text-heading">
-                  2+
+                  4+
                 </p>
               </motion.div>
             </div>
