@@ -42,7 +42,6 @@ const projects = [
       "Engineered DropWatch, a live AI model-release tracker using Node.js/Express and the Claude API to scrape, classify, and rank AI news by discussion velocity. Automated scheduled refreshes via GitHub Actions and deployed on Render with a secured REST API.",
     color: "from-blue-500/10 to-cyan-500/10",
     iconColor: "text-blue-500",
-    demo: "https://dropwatch-1.onrender.com/",
   },
   {
     icon: GraduationCap,
